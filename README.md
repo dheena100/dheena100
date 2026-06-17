@@ -1,3 +1,4 @@
+<img src="YOUR_IMAGE_LINK" width="100%">
 # Hi, I'm Dheena G 👋
 
 🚀 Freelance Software Developer
