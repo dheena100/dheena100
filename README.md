@@ -1,4 +1,4 @@
-<img src=""C:\Users\dheen\Pictures\ChatGPT Image Jun 17, 2026, 05_57_09 AM.png"" width="100%">
+<img src="YOUR_IMAGE_LINK" width="100%">
 # Hi, I'm Dheena G 👋
 
 🚀 Freelance Software Developer
